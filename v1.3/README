@@ -1,0 +1,8 @@
+test.ipynb = contains the testing phase of the modules
+modules2.py = contains the transformer code
+preprocess.py = contains all the data preprocessing
+
+Ignore the encoder.py
+
+
+Please Check the Previous Versions for more codes and notebook files
